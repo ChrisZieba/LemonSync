@@ -2,7 +2,7 @@
 
 **LemonSync** will listen for changes in the folder you configure, and automatically push updates to your store theme.
 
-## nstallation
+## Installation
 
 You must have python 2.7.x or higher for `LemonSync` to work. Also, please make sure you have the needed libraries installed. If you have `pip` already installed on your system you can run the following commands to install them.
 
